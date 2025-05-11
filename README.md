@@ -22,7 +22,7 @@ A Python game using Pygame and AI algorithms.
 - 🔗 [Source Code](https://github.com/TrieuHieu842/8-puzzle-with-6-group-Algorithms.git)  
 - 🧩 Group Algorithms: Uniformed Search, Informed Search, Local Search, Searching in Complex Environments, Constraint Satisfaction Problems, Reinforcement Learning.
 
-📫 How to reach me:  
+## 📫 How to reach me:  
   
 Email: trieuphuchieu842@gmail.com  
 
