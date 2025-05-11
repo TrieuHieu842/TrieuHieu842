@@ -20,19 +20,20 @@ Platforms: Windows, ESP32, Raspberry Pi
 ## 🚀 Featured Projects 
 [![8-Puzzle AI](https://github-readme-stats.vercel.app/api/pin/?username=TrieuHieu842&repo=8-puzzle-with-6-group-Algorithms
 )](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ## 🛠️ Notable Contributions
 1. 🏍️ Contributed core features to the [Motorcycle Shop Manager](https://github.com/WuHou11/Motorcycle-shop-manager), including:
   - Customer and vehicle management logic
   - Invoice generation and search functionality
   - UI enhancements using Windows Forms (WinForms)
-  - Backend
-
+  - Backend  
+[![Motorcycle Shop Manager](https://github-readme-stats.vercel.app/api/pin/?username=WuHou11&repo=Motorcycle-shop-manager)](https://github.com/WuHou11/Motorcycle-shop-manager)
+  
 2.🎮 Participated in the development of [Game Pursuit](https://github.com/minhnhutZzz/Game_Pursuit):
   - Implemented pathfinding and AI movement mechanics
   - Optimized game state transitions and chase logic
-  - Assisted with bug fixes and UI polishing
-
+  - Assisted with bug fixes and UI polishing  
+[![Game Pursuit Repository](https://github-readme-stats.vercel.app/api/pin/?username=minhnhutZzz&repo=Game_Pursuit)](https://github.com/minhnhutZzz/Game_Pursuit)  
 ## 📫 How to reach me:  
   
 Email: trieuphuchieu842@gmail.com  
