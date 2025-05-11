@@ -1,3 +1,4 @@
+![Welcome Banner](https://github.com/TrieuHieu842/TrieuHieu842/blob/main/Profile.png)
 # Hi there 👋, I'm Trieu Phuc Hieu
   
 # 💼 About Me:
