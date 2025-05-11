@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there 👋, I'm Trieu Phuc Hieu
+💼 About Me:
+🎓 I'm a student passionate about technology, software development, and automation.
+💻 I'm currently learning Python, C#, and embedded systems.
+🔍 Interested in AI, IoT, and full-stack development.
+🚀 I enjoy building smart systems and solving real-world problems with code.
 
-<!--
-**TrieuHieu842/TrieuHieu842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack:
+Languages: C#, Python, JavaScript
+Frameworks: .NET WinForms, Flask, Pygame
+Tools: Git, VS Code, SQL Server, Arduino IDE
+Platforms: Windows, ESP32, Raspberry Pi
+🌱 Currently Learning:
+AI Algorithms (Backtracking, CSP, A*)
+Embedded Programming with ESP32
+Web Development with Flask + React
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 8-Puzzle AI Solver
+A Python game using Pygame and AI algorithms .
+- 🔗 [Source Code](https://github.com/TrieuHieu842/8-puzzle-with-6-group-Algorithms.git)
+- 🧩 Group Algorithms: Uniformed Search, Informed Search, Local Search, Searching in Complex Environments, Constraint Satisfaction Problems, Reinforcement Learning.
+
+📫 How to reach me:
+Email: trieuphuchieu842@gmail.com
+
+LinkedIn: www.linkedin.com/in/trieuphuchieu
