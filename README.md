@@ -15,7 +15,7 @@ Platforms: Windows, ESP32, Raspberry Pi
  
  
 ![TrieuHieu842's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrieuHieu842&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrieuHieu842&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrieuHieu842&layout=donut)](https://github.com/TrieuHieu842/8-puzzle-with-6-group-Algorithms.git)
 
 ## 🚀 Featured Projects 
 [![8-Puzzle AI](https://github-readme-stats.vercel.app/api/pin/?username=TrieuHieu842&repo=8-puzzle-with-6-group-Algorithms)](https://github.com/TrieuHieu842/8-puzzle-with-6-group-Algorithms)  
