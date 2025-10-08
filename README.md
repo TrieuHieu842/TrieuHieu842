@@ -114,7 +114,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:trieuphuchieu842@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=trieuphuchieu842@gmail.com" target="_blank">...</a>
   <a href="https://www.linkedin.com/in/trieuphuchieu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/TrieuHieu842"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
