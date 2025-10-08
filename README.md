@@ -49,6 +49,20 @@
 
 ---
 
+#### 🧠 [DBMS_QLTTSV_DKMH](https://github.com/TrieuHieu842/DBMS_QLTTSV_DKMH)
+> A comprehensive **Student Information & Course Registration Management System** built with SQL Server and C#.
+
+- Designed relational database structure and stored procedures for **student and course management**
+- Implemented **triggers, functions, and transactions** for data integrity  
+- Supported **automatic account creation** and **registration validation logic**
+- Focused on clean database schema design and optimized queries
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TrieuHieu842&repo=DBMS_QLTTSV_DKMH&theme=default" />
+</p>
+
+---
+
 #### 🏍️ [Motorcycle Shop Manager](https://github.com/WuHou11/Motorcycle-shop-manager)
 - Contributed major backend modules for **customer and vehicle management**
 - Designed **invoice generation and search** features  
@@ -106,6 +120,5 @@
 </p>
 
 ---
-
 
 <p align="center">🌟 From <a href="https://github.com/TrieuHieu842">Trieu Phuc Hieu</a> with clean code & creativity ✨</p>
