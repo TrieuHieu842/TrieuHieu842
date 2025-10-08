@@ -107,10 +107,5 @@
 
 ---
 
-### 💬 Quote to Code By
-> “The best way to predict the future is to invent it.”  
-> — *Alan Kay*
-
----
 
 <p align="center">🌟 From <a href="https://github.com/TrieuHieu842">Trieu Phuc Hieu</a> with clean code & creativity ✨</p>
